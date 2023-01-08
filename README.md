@@ -83,9 +83,6 @@ style="fill:#000000;">
 	</br>
 </p>
 
-</br>
-</br>
-
 ## ```_nowListening```
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11180609169&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11180609169&redirect=true)
@@ -93,7 +90,7 @@ style="fill:#000000;">
 </br>
 </br>
 
-[```Download resume PDF```](https://drive.google.com/open?id=1o7KM0L_OtVqql-wdxeQZ6w0Pt8GKE3j-&authuser=0&usp=drive_link)
+[Download resume PDF](https://drive.google.com/open?id=1o7KM0L_OtVqql-wdxeQZ6w0Pt8GKE3j-&authuser=0&usp=drive_link)
 
 ### ```Feel free to contact me from:```
 
