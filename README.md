@@ -2,8 +2,6 @@
 
 ## **Who am I ?**
 
------
-
 * Computer Science Engineering Graduate [@Yeditepe University](https://eng.yeditepe.edu.tr/en/computer-engineering-department)
 * RPA Developer [@Softtech](https://softtech.com.tr/en/homepage/)
 * Tech enthusiast
@@ -12,9 +10,7 @@
 
 ## **What I code**
 
------
-
-## ```_myProjects```
+### ```_myProjects```
 
 * [Sphotofy](https://github.com/null-p01ntr?tab=repositories) - Image based playlist generator
 * [SpotiMini](https://github.com/null-p01ntr?tab=repositories) - Simplified Desktop Player for _Spotify_
@@ -27,9 +23,7 @@
 
 ## **How I code**
 
------
-
-## ```_devPrefs```
+### ```_devPrefs```
 
 * Dark mode everything, always 🌑
 * Favorite theme: Solarized-Dark 🌇
@@ -42,7 +36,7 @@ style="fill:#000000;">
 <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(5.33333,5.33333)"><path d="M15,35c-0.5,0 -1,-0.2 -1.4,-0.6c-0.8,-0.8 -0.8,-2 0,-2.8l26,-26c0.8,-0.8 2,-0.8 2.8,0c0.8,0.8 0.8,2 0,2.8l-26,26c-0.4,0.4 -0.9,0.6 -1.4,0.6z" fill="#bcefff"></path><path d="M14,35c-0.3,0 -0.5,-0.1 -0.7,-0.3c-0.4,-0.4 -0.4,-1 0,-1.4l27,-27c0.4,-0.4 1,-0.4 1.4,0c0.4,0.4 0.4,1 0,1.4l-27,27c-0.2,0.2 -0.4,0.3 -0.7,0.3z" fill="#00adff"></path><path d="M8.3,38.3l1.4,1.4l-3.3,3.3l-1.4,-1.4z" fill="#90a4ae"></path><path d="M14.5,30.7l2.8,2.8l-9.5,9.5l-2.8,-2.8z" fill="#90a4ae"></path><path d="M12.1,33.1l2.8,2.8l-7.1,7.1l-2.8,-2.8zM18,27.2l-3.9,3.9l2.8,2.8l1.1,-1.1z" fill="#37474f"></path><path d="M11,32l3,3l-2,2l-3,-3z" fill="#37474f"></path></g></g>
 </svg>
 
-## ```_devToolkit```
+### ```_devToolkit```
 
 <p align="left">
 	<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
@@ -63,11 +57,9 @@ style="fill:#000000;">
 	<br/>
 </p>
 
-## **When I'm not coding**
+## **I do besides coding**
 
------
-
-## ```_hobbies```
+### ```_hobbies```
 
 <p align="left">
 	<img src="https://img.icons8.com/color/48/000000/guitar-strings.png"/>
@@ -83,7 +75,7 @@ style="fill:#000000;">
 	</br>
 </p>
 
-## ```_nowListening```
+### ```_nowListening```
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11180609169&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11180609169&redirect=true)
 
@@ -92,14 +84,10 @@ style="fill:#000000;">
 
 [Download resume PDF](https://drive.google.com/open?id=1o7KM0L_OtVqql-wdxeQZ6w0Pt8GKE3j-&authuser=0&usp=drive_link)
 
-### ```Feel free to contact me from:```
+#### ```Feel free to contact me:```
 
-<p align="left">
-	<a href="mailto:dogac.seyhan@gmail.com" target="blank"></a>
-	<img src="https://img.icons8.com/color/48/000000/gmail-new.png">
-	<a href="https://linkedin.com/in/dogacseyhan/" target="blank"></a>
-	<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-	<a href="https://twitter.com/null_p01nter" target="blank"></a>
-	<img src="https://img.icons8.com/color/48/000000/twitter--v1.png">
-</p>
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:dogac.seyhan@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/dogacseyhan/)
+[<img src="https://img.icons8.com/color/48/000000/twitter--v1.png">](https://twitter.com/null_p01nter)
+
 
