@@ -12,10 +12,10 @@
 
 ### ```_myProjects```
 
-* [Sphotofy](https://github.com/null-p01ntr?tab=repositories) - Image based playlist generator
-* [SpotiMini](https://github.com/null-p01ntr?tab=repositories) - Simplified Desktop Player for _Spotify_
+* [Sphotofy](https://github.com/null-p01ntr/Sphotofy-Engine) - Image based playlist generator, Listen what your photos sing 
+* [SpotiMini](https://github.com/null-p01ntr/SpotiMini-Player) - Simplified Desktop Player for _Spotify_
 * [Prime Gaming AutoClaim](https://github.com/null-p01ntr/PrimeGaming-AutoClaim) - Auto Claims _Prime Gaming_ rewards from selected games
-* [Ring Rush](https://github.com/null-p01ntr?tab=repositories) - Arcade Campus Ring Game
+* [Ring Rush](https://github.com/null-p01ntr/Ring-Rush) - Arcade Campus Ring Game
 * [+ see more](https://github.com/null-p01ntr?tab=repositories)
 </br>
 
@@ -51,7 +51,7 @@
 	<br/>
 </p>
 
-## **I do besides coding**
+## **Besides coding**
 
 ### ```_hobbies```
 
