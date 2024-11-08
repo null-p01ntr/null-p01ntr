@@ -1,13 +1,14 @@
-# **```Hi I'm Doğaç```**
+# **```Hi I'm Doğaç```**[🗣️](https://www.howtopronounce.com/turkish/do%C4%9Fa%C3%A7-1/36118424)
 
 ## **Who am I ?**
 
 * Computer Science Engineering Graduate [@Yeditepe University](https://eng.yeditepe.edu.tr/en/computer-engineering-department)
 * RPA Developer [@Softtech](https://softtech.com.tr/en/homepage/)
 * Automation freak
+* Proud self-hoster
 * IoT enthusiast
-* Self educating Flutter Developer
-* Game Deveoper wannabe'
+* Flutter leaner
+* Game Dev wannabe
 
 ## **What I code**
 
@@ -88,6 +89,6 @@
 
 [<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:dogac.seyhan@gmail.com)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/dogac-seyhan/)
-[<img src="https://img.icons8.com/color/48/000000/twitter--v1.png">](https://twitter.com/null_p01nter)
+[<img src="https://img.icons8.com/color/48/000000/twitter--v1.png">](https://x.com/null_p01nter)
 
 
