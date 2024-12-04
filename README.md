@@ -5,7 +5,7 @@
 * Computer Science Engineering Graduate [@Yeditepe University](https://eng.yeditepe.edu.tr/en/computer-engineering-department)
 * RPA Developer [@Softtech](https://softtech.com.tr/en/homepage/)
 * Automation freak
-* Proud self-hoster
+* [Proud self-hoster](https://github.com/null-p01ntr/B33K33P3R_H1V3-HomeLab-Portfolio) 
 * IoT enthusiast
 * Flutter leaner
 * Game Dev wannabe
@@ -14,6 +14,7 @@
 
 ### ```_myProjects```
 
+* [H1V3 Home Server](https://github.com/null-p01ntr/B33K33P3R_H1V3-HomeLab-Portfolio) - Home server portfolio
 * [Sphotofy](https://github.com/null-p01ntr/Sphotofy-Engine) - Image based playlist generator, Listen what your photos sing 
 * [SpotiMini](https://github.com/null-p01ntr/SpotiMini-Player) - Simplified Desktop Player for _Spotify_
 * [Prime Gaming AutoClaim](https://github.com/null-p01ntr/PrimeGaming-AutoClaim) - Auto Claims _Prime Gaming_ rewards from selected games
